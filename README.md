@@ -10,7 +10,7 @@ A simple and efficient Python-based port scanner that allows you to identify ope
 - Fast scanning with configurable timeouts.
 - Simple CLI-based interface.
 
-## 🛠 Installation
+##  Installation
 
 1. **Clone the repository**:
 
