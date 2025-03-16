@@ -4,6 +4,11 @@
 
 A simple and efficient Python-based port scanner that allows you to identify open ports on a specified host within a given range.
 
+## Video Link
+
+[Watch the video on YouTube](https://youtu.be/-vnVpZgNbfoc)
+
+
 ##  Features
 - Scan a range of ports on a target IP address.
 - Identify and display open ports.
